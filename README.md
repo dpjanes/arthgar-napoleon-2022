@@ -25,5 +25,5 @@ Dave Trickett's Napoleon Wargame 2022
 ![Europe Points Map](photos/EuropePointsMap.jpg)
 
 * [Point Values for Napoleonic States](./Points.pdf)
-* [WuttenburgMarchingSong.pdf](./WuttenburgMarchingSong.pdf)
-* [WuttenburgPost.pdf](./WuttenburgPost.pdf) - updated during game play
+* [Wuttenburg Marching Song](./WuttenburgMarchingSong.pdf)
+* [Wuttenburg Post](./WuttenburgPost.pdf) - updated during game play
