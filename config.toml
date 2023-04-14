@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Dave Trickett Napolean 2022'
+theme = "blackburn"
